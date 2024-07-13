@@ -18,4 +18,3 @@ Attention based Hopfield Network with Sparse Modern Hopfield network to improve 
 ## Contributing
 
 Please make sure to run the pre-commit hooks before committing your changes.
-

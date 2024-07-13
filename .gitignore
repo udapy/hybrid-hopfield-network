@@ -167,5 +167,8 @@ __pycache__/
 .venv/
 .pytest_cache/
 .ruff_cache/
-site/
-notebooks/
+/site/
+/notebooks/
+/src/data/
+/data/
+/data/MNIST
